@@ -15,7 +15,7 @@ An example of the less file structure for a particular project based on "Divante
 
 app/design/frontend/Baniwal/specific - Package/Theme  
 app/design/frontend/Baniwal/specific/Magento_Theme - Specific module as an example  
-app/design/frontend/Baniwal/specific/Magento_Theme/web/css/source/_extend-specific.less - File to extend  
+app/design/frontend/Baniwal/specific/Magento_Theme/web/css/source/_extend.less - File to extend  
  
 ## Setup
 
