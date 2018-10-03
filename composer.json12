@@ -1,0 +1,17 @@
+{
+  "name": "baniwal/theme-frontend-structure",
+  "description": "Baniwal Frontend Theme for Magento 2",
+  "version": "2.2.0",
+  "type": "magento2-theme",
+  "authors": [
+    {
+      "name": "Baniwal Infotech",
+      "email": "info@baniwalinfotech.com"
+    }
+  ],
+  "autoload": {
+    "files": [
+      "registration.php"
+    ]
+  }
+}
